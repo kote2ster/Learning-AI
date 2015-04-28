@@ -1,3 +1,13 @@
+/** @file main.c  */
+/** [TOC]
+ * @mainpage AI from database
+ * @section intro_sec Introduction
+ *  @author    Akos Kote
+ *  @version   1.0
+ *  @date      Last Modification: 2015.04.28.
+ *
+ * [GitHub Project](https://github.com/kote2ster/Learning-AI "GitHub Project")
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
