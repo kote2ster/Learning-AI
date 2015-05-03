@@ -17,7 +17,7 @@
 #define CON_Y 80      /**< Console height */
 #define FPS 60    /**< FPS of LIBTCOD */
 #define MAX_MEM_ALLOC 1000000 /**< Max allowed memory allocation (in byte) */
-#define EASY /**< You can define EASY,MEDIUM,HARD */
+#define HARD /**< You can define EASY,MEDIUM,HARD */
 /*------DIFFICULTY SETTINGS------*/
 #ifdef EASY /* 0.3sec/move,at least LearnedAISize/10 unkown,below 7 digwidth 20% chance of shortening digwidth */
 #define WAIT 300 /**< Waiting time between main cycles (in ms) */
